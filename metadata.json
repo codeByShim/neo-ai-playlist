@@ -1,0 +1,7 @@
+{
+  "name": "2. 네오뮤직 AI - AI Music Studio",
+  "description": "A sophisticated AI-powered music generation platform inspired by modern studio interfaces, allowing users to craft detailed musical prompts and generate professional lyrics using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
